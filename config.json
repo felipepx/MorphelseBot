@@ -1,0 +1,17 @@
+{
+    "name": "MorphelseBot",
+    "version": "0.0.1",
+    "description": "",
+    "main": "morphelsebot.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Felipe&Malbem",
+    "license": "ISC"
+    "dependencies":{
+        "discord.js": "^13.6.0",
+        "dotenv": "^14.3.2"
+
+    }
+  }
