@@ -1,17 +1,4 @@
 {
-    "name": "MorphelseBot",
-    "version": "0.0.1",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "keywords": [],
-    "author": "Felipe&Malbem",
-    "license": "ISC"
-    "dependencies":{
-        "discord.js": "^13.6.0",
-        "dotenv": "^14.3.2"
-
-    }
+    "prefix": "!",
+    "token": "MTAyNTc1NTY1ODg2NTM0ODcwMQ.GUyVFd.shiRi9O77dsVkK6HJF--UiznVeMHIut5kdBKH0"
   }
