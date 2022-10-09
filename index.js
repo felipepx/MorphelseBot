@@ -5,9 +5,11 @@ const config = require("./config.json");
 
 
 client.on('ready', () => {
-    console.log(`Bot foi iniciado, com ${client.user.size} usuários, em ${client.channels.size} canais, em ${client.guilds.size} servidores`);
-    client.user.setActivity(` Morphelses@gmail.com | Lipe&Malbem`);
-
+ 
+    console.log(`Bot logado com: ${client.users.cache.size} usuários, em ${client.channels.cache.size} canais, de ${client.guilds.cache.size} servidores.`);
+    client.user.setActivity(`Morphelses@gmail.com | Lipe&Malbem`, {type: 'WATCHING'});
+    client.user 
+    .setStatus('online')
 
 });
 
@@ -25,6 +27,9 @@ client.on("guildDelete", guild => {
 
 
 client.on("message", async message => {
+ 
+ 
+    
 
 });
 
