@@ -20,7 +20,7 @@ Tecnologias usadas:
 
 ## Pics
 
-<img src="https://cdn.discordapp.com/attachments/1026167688193650848/1028490042794061915/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/1026167688193650848/1028688432584728707/unknown.png">
 <img src="https://cdn.discordapp.com/attachments/1026167688193650848/1028490120241872916/unknown.png">
 <img src="https://cdn.discordapp.com/attachments/1026167688193650848/1028491029529235466/unknown.png">
 
