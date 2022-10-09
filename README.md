@@ -31,5 +31,5 @@ Tecnologias usadas:
   
   
   
-| [<img src="https://cdn.discordapp.com/attachments/1026167688193650848/1028693205077741659/xavatario_1.png" width=115><br><sub>Malbem</sub>](https://github.com/malbem) |
+| [<img src="https://cdn.discordapp.com/attachments/869279915994939402/1028695256503418960/Captura_de_tela_2022-10-09_124715.png" width=115><br><sub>Malbem</sub>](https://github.com/malbem) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
