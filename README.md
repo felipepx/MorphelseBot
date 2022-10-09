@@ -26,7 +26,7 @@ Tecnologias usadas:
 
 ## Authors
 
-| [<img src="https://cdn.discordapp.com/attachments/920700154204553226/1013985974004502640/unknown.png" width=115><br><sub>Felipe Pereira</sub>](https://github.com/felipepx) |
+| [<img src="https://cdn.discordapp.com/attachments/920700154204553226/1028695550851297290/korneychukovsky.jpg" width=115><br><sub>Felipe Pereira</sub>](https://github.com/felipepx) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |  
   
   
