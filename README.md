@@ -16,8 +16,8 @@ Bot sendo desenvolvido para o aplicativo Discord.  Está sendo utilizado para fi
 Tecnologias usadas:
 
 *   [Javascript](https://www.javascript.com/)
-*   [discord.js](https://discord.js.org/#/)
-*   [node.js](https://nodejs.org/)
+*   [Discord.js](https://discord.js.org/#/)
+*   [Node.js](https://nodejs.org/)
 
 ## Pics
 
