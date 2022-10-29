@@ -17,6 +17,7 @@ Tecnologias usadas:
 
 *   [Javascript](https://www.javascript.com/)
 *   [discord.js](https://discord.js.org/#/)
+*   [node.js](https://nodejs.org/)
 
 ## Pics
 
